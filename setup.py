@@ -21,11 +21,11 @@ setup(
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",
         "Intended Audience :: System Administrators",
-        "Programming Language :: Python :: 3.10",
+        "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: MIT License",
         "Topic :: Internet :: WWW/HTTP",
         "Topic :: Security",
         "Topic :: System :: Systems Administration",
     ],
-    python_requires=">=3.10",
+    python_requires=">=3.6",
 )
